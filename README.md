@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @GhsJahanmir
-- 👀 I’m interested in Python and Matlab programming, machine learning and deep learning
-- 🌱 I’m currently working on the application of nueral network and ML model on metabolomic analysis
+- 👀 I’m interested in Python and Matlab programming, machine learning and LLM applications
+- 🌱 I’m currently working on the application of LLMs making chatbots
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
